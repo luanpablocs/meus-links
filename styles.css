@@ -32,7 +32,7 @@ body {
   background: var(--bg-color);
   color: var(--text-color);
   font-family: 'Roboto', sans-serif;
-  transition: background 0.2s linear;
+  transition: background 0.6s linear;
 }
 
 .checkbox {
@@ -60,7 +60,7 @@ body {
   left: 2px;
   height: 22px;
   width: 22px;
-  transition: transform 0.2s linear;
+  transition: transform 0.6s linear;
 }
 
 .checkbox:checked + .label .ball {
@@ -79,11 +79,11 @@ body {
   text-align: center;
   width: 300px;
   margin: 15px auto;
-  }
+}
 
 img {
   width: 100%;
-  }
+}
 
 img.avatar {
   border-radius: 50%;
@@ -91,7 +91,7 @@ img.avatar {
   height: 100px;
   padding: 3.7px;
   border: var(--primary-color-dark) solid 4px;
-   }
+}
 
 h1 {
   font-size: 32px;
