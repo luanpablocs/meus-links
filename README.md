@@ -4,9 +4,8 @@
 
 >Projeto 'Meus Links'
 
-Projeto 'Meus Links' Next Level Week da Rocketseat.
-Um projeto semelhante ao Link.tree
-com botões animados e Temas;
+Projeto 'Meus Links' da Maratona Explorer 2.0 da Rocketseat.
+Um projeto semelhante ao Link.tree com botões animados e Temas dark/light;
 
 [🔗 Clique aqui para acessar](https://luanpablocs.github.io/meus-links/)
 
